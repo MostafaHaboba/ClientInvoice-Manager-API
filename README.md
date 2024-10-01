@@ -119,7 +119,3 @@ You can run the tests to ensure everything is working correctly:
 ```bash
 php artisan test
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
